@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ashish Saha</h1>
+<h1 align="center">Hi 👋, I'm Ashish </h1>
 <h3 align="center">Computer Science and Engineering student, enthusiastic in the field of Machine Learning, Data Science and Blockchain. Exploring new researched based technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish1100&label=Profile%20views&color=0e75b6&style=flat" alt="ashish1100" /> </p>
