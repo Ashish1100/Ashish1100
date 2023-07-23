@@ -6,6 +6,8 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-saha-6028a2204/) 
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/_ashish_saha_?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/_ashish_saha_?hr_r=1" height="30" width="40" /></a>
+
 
 
 ## 💻 Tech Stack:
