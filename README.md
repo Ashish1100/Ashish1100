@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Ashish </h1>
 <h3 align="center">"Computer Science and Engineering student working in the field of Software Development, Machine Learning, and Blockchain. I am constantly exploring new innovations and research-based technologies."</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish1100&label=Profile%20views&color=0e75b6&style=flat" alt="ashish1100" /> </p>
 
 
 
@@ -22,4 +21,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish1100&label=Profile%20views&color=0e75b6&style=flat" alt="ashish1100" /> </p>
 
