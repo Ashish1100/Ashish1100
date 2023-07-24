@@ -1,4 +1,6 @@
-<h1 align="center">Hi, I'm Ashish </h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+Ashish+Saha;" />
+</h1>
 <h3 align="center">"Computer Science and Engineering student working in the field of Software Development, Machine Learning, and Blockchain. I am constantly exploring new innovations and research-based technologies."</h3>
 
 
