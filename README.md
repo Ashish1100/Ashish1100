@@ -18,7 +18,7 @@
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ashish1100&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![Ashish Saha's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashish1100&show_icons=true&theme=radical)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ashish1100&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish1100&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
