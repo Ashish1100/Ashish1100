@@ -79,18 +79,18 @@
         <img src="https://github-readme-stats.vercel.app/api?username=ashish1100&show_icons=true&theme=radical&hide_border=true" alt="Ashish's Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish1100&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish1100&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" />
       </td>
     </tr>
   </table>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashish1100&theme=radical&hide_border=true" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=ashish1100&theme=radical&hide_border=true" alt="Streak Stats" />
 </div>
 
 <br />
 
 <h2 align="center">Achievements</h2>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ashish1100&theme=discord&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ashish1100&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
 </div>
 
 <br />
