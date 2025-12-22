@@ -13,7 +13,9 @@ Focused on designing scalable systems, building data-driven models, and translat
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-saha-6028a2204/)
+<a href="https://www.linkedin.com/in/ashish-saha-6028a2204/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://ashishsaha.tech)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashishsaha.software@gmail.com)
 
