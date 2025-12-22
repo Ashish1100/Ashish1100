@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=650&height=70&duration=5000&lines=Hi+There+!+Welcome+to+my+GitHub;I+am+Ashish+Saha;ML+Researcher+%7C+Software+Engineer;Building+the+future+of+AI" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=650&height=70&duration=5000&lines=Hi+There!+Welcome+to+my+GitHub;I+am+Ashish+Saha;ML+Researcher+%7C+Software+Engineer;Building+the+future+of+AI" />
 </h1>
 
 <h2 align="center">Machine Learning Researcher & Software Engineer</h2>
