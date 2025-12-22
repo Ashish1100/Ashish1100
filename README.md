@@ -78,7 +78,7 @@ Focused on designing scalable systems, building data-driven models, and translat
 - **MLOps**: Production ML pipelines, model monitoring, A/B testing infrastructure
 ---
 
-## Featured Quote
+## Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
