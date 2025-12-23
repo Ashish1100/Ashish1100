@@ -41,12 +41,11 @@ Focused on designing scalable systems, building data-driven models, and translat
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FBBC04?style=for-the-badge&logo=huggingface&logoColor=white)
 
 ### Data Analysis
-![NumPy](https://img.shields.io/badge/numpy-%23ffffff.svg?style=for-the-badge&logo=numpy&logoColor=013243)
-![Pandas](https://img.shields.io/badge/pandas-%23ffffff.svg?style=for-the-badge&logo=pandas&logoColor=150458)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Seaborn-%23ffffff.svg?style=for-the-badge&logo=seaborn&logoColor=446e9b)
-![Plotly](https://img.shields.io/badge/Plotly-%23ffffff.svg?style=for-the-badge&logo=plotly&logoColor=3F4F75)
-
+![NumPy](https://img.shields.io/badge/numpy-%23000000.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23000000.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23000000.svg?style=for-the-badge&logo=Matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-%23000000.svg?style=for-the-badge&logo=seaborn&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%23000000.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
 
 ### Cloud
