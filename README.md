@@ -65,6 +65,23 @@ Focused on designing scalable systems, building data-driven models, and translat
 ---
 
 ## Impact Metrics
+## Impact Metrics
+
+<div align="center">
+
+[![Stats Graph](https://github-readme-stats.vercel.app/api?username=Ashish1100&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=4285F4&icon_color=4285F4&text_color=fcfcfc&cache_seconds=1)](https://github.com/Ashish1100)
+[![Languages Graph](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish1100&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=4285F4&text_color=fcfcfc&langs_count=6&hide=html,css,javascript&cache_seconds=1)](https://github.com/Ashish1100)
+
+<br/>
+
+[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Ashish1100&theme=dark&hide_border=true&background=0d1117&ring=4285F4&fire=FF6F00&currStreakNum=ffffff&sideNums=fcfcfc&currStreakLabel=4285F4)](https://github.com/Ashish1100)
+
+<br/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashish1100&bg_color=0d1117&color=4285F4&line=4285F4&point=fcfcfc&area=true&hide_border=true)](https://github.com/Ashish1100)
+
+</div>
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish1100&theme=transparent&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=fcfcfc&layout=compact&langs_count=8&hide=html,css,javascript)<br/>
 
 ---
