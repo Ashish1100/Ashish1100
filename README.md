@@ -65,11 +65,10 @@ Focused on designing scalable systems, building data-driven models, and translat
 ---
 
 ## Impact Metrics
-## Impact Metrics
-
 <div align="center">
 
 [![Stats Graph](https://github-readme-stats.vercel.app/api?username=Ashish1100&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=4285F4&icon_color=4285F4&text_color=fcfcfc&cache_seconds=1)](https://github.com/Ashish1100)
+
 [![Languages Graph](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish1100&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=4285F4&text_color=fcfcfc&langs_count=6&hide=html,css,javascript&cache_seconds=1)](https://github.com/Ashish1100)
 
 <br/>
