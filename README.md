@@ -66,7 +66,8 @@ Focused on designing scalable systems, building data-driven models, and translat
 
 ## Impact Metrics
 
-![Ashish Saha's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashish1100&show_icons=true&theme=transparent&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=fcfcfc&icon_color=e2eefb&hide=issues&card_width=900)<br/>
+![Ashish Saha's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashish1100&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=fcfcfc&icon_color=e2eefb&hide=issues)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish1100&theme=transparent&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=fcfcfc&layout=compact&langs_count=8&hide=html,css,javascript)<br/>
 
 ---
