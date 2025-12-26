@@ -3,7 +3,7 @@
 </h1>
 
 <h2 align="center">Machine Learning Researcher & Software Engineer</h2>
-<h3 align="center">Computer Science & Engineering | Specializing in Generative AI and Agentic AI Systems</h3>
+<h3 align="center">Computer Science & Engineering | Specializing in Generative AI and Agentic AI</h3>
 
 <h5 align="center">
 Focused on designing scalable systems, building data-driven models, and translating complex problems into reliable, high-impact solutions.
