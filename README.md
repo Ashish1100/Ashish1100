@@ -67,17 +67,16 @@ Focused on designing scalable systems, building data-driven models, and translat
 ## Impact Metrics
 <div align="center">
 
-<!-- <br/>
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ashish1100&theme=dark&hide_border=true)
 
-[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Ashish1100&theme=dark&hide_border=true&background=0d1117&ring=4285F4&fire=FF6F00&currStreakNum=ffffff&sideNums=fcfcfc&currStreakLabel=4285F4)](https://github.com/Ashish1100) -->
+
 
 <br/>
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashish1100&bg_color=0d1117&color=4285F4&line=4285F4&point=fcfcfc&area=true&hide_border=true)](https://github.com/Ashish1100)
 
-</div>
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ashish1100&layout=compact&hide_border=true&v=1)
+</div>
 
 
 ---
