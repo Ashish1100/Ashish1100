@@ -78,6 +78,28 @@ Focused on designing scalable systems, building data-driven models, and translat
 
 </div>
 
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+<b>Top Languages by Repo</b><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish1100&layout=donut&langs_count=6&theme=dark&hide_border=true" />
+
+</td>
+<td align="center">
+
+<b>Top Languages by Commit</b><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish1100&layout=donut&langs_count=6&theme=dark&hide_border=true&count_private=true" />
+
+</td>
+</tr>
+</table>
+
+</div>
+
+
 
 ---
 
