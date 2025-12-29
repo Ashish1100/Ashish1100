@@ -77,7 +77,7 @@ Focused on designing scalable systems, building data-driven models, and translat
 
 </div>
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ashish1100&layout=compact&hide_border=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish1100&layout=compact&theme=transparent&hide_border=true)](https://github.com/Ashish1100)
 
 ---
 
