@@ -67,8 +67,6 @@ Focused on designing scalable systems, building data-driven models, and translat
 ## Impact Metrics
 <div align="center">
 
-
-
 <br/>
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ashish1100&theme=dark&hide_border=true)
