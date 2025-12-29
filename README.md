@@ -69,12 +69,6 @@ Focused on designing scalable systems, building data-driven models, and translat
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ashish1100&theme=dark&hide_border=true)
 
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashish1100&theme=github_dark" alt="Repos per Language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashish1100&theme=github_dark" alt="Most Commit Language" />
-
-<br/>
 
 <br/>
 
@@ -82,28 +76,6 @@ Focused on designing scalable systems, building data-driven models, and translat
 
 
 </div>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-
-<b>Top Languages by Repo</b><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish1100&layout=donut&langs_count=6&theme=dark&hide_border=true" />
-
-</td>
-<td align="center">
-
-<b>Top Languages by Commit</b><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish1100&layout=donut&langs_count=6&theme=dark&hide_border=true&count_private=true" />
-
-</td>
-</tr>
-</table>
-
-</div>
-
 
 
 ---
