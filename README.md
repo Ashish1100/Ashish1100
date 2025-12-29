@@ -67,6 +67,11 @@ Focused on designing scalable systems, building data-driven models, and translat
 ## Impact Metrics
 <div align="center">
 
+<!-- Top Languages (percentage bar style) -->
+<img src="https://github-language-stats.vercel.app/api/top-langs?username=Ashish1100&theme=light" alt="Most Used Languages" />
+
+<br/><br/>
+
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ashish1100&theme=dark&hide_border=true)
 
 
