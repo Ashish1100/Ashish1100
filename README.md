@@ -491,7 +491,7 @@ Location:   India 🇮🇳
      💡 SECTION 12: DEV QUOTE
      ═══════════════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="28" alt="Quote" /> &nbsp;Quote of the Day
+## <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="28" alt="Quote" /> &nbsp;Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="550" alt="Dev Quote" />
