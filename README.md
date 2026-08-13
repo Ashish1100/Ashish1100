@@ -96,7 +96,7 @@ Location:   India 🇮🇳
 <br/>
 
 <!-- Languages & Core -->
-<details open>
+<details>
 <summary>&nbsp;<b>Languages & Core</b></summary>
 <br/>
 
@@ -114,7 +114,7 @@ Location:   India 🇮🇳
 </details>
 
 <!-- AI/ML Frameworks -->
-<details open>
+<details>
 <summary>&nbsp;<b>AI / ML Frameworks</b></summary>
 <br/>
 
@@ -130,7 +130,7 @@ Location:   India 🇮🇳
 </details>
 
 <!-- Data & Visualization -->
-<details open>
+<details>
 <summary>&nbsp;<b>Data & Visualization</b></summary>
 <br/>
 
@@ -145,7 +145,7 @@ Location:   India 🇮🇳
 </details>
 
 <!-- Cloud & MLOps -->
-<details open>
+<details>
 <summary>&nbsp;<b>Cloud, DevOps & MLOps</b></summary>
 <br/>
 
