@@ -115,7 +115,7 @@ Location:   India 🇮🇳
 
 <!-- AI/ML Frameworks -->
 <details open>
-<summary>🧠 &nbsp;<b>AI / ML Frameworks</b></summary>
+<summary>&nbsp;<b>AI / ML Frameworks</b></summary>
 <br/>
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -131,7 +131,7 @@ Location:   India 🇮🇳
 
 <!-- Data & Visualization -->
 <details open>
-<summary>📊 &nbsp;<b>Data & Visualization</b></summary>
+<summary>&nbsp;<b>Data & Visualization</b></summary>
 <br/>
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -146,7 +146,7 @@ Location:   India 🇮🇳
 
 <!-- Cloud & MLOps -->
 <details open>
-<summary>☁️ &nbsp;<b>Cloud, DevOps & MLOps</b></summary>
+<summary>&nbsp;<b>Cloud, DevOps & MLOps</b></summary>
 <br/>
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
@@ -165,7 +165,7 @@ Location:   India 🇮🇳
 
 <!-- Databases & Infra -->
 <details>
-<summary>🗄️ &nbsp;<b>Databases & Infrastructure</b></summary>
+<summary>&nbsp;<b>Databases & Infrastructure</b></summary>
 <br/>
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -189,7 +189,7 @@ Location:   India 🇮🇳
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🤖 Generative AI</h3>
+      <h3 align="center">Generative AI</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/-LLM%20Fine--Tuning-6C63FF?style=flat-square" />
         <img src="https://img.shields.io/badge/-RAG%20Systems-2BD2FF?style=flat-square" />
@@ -198,7 +198,7 @@ Location:   India 🇮🇳
       <p>Building production-grade RAG pipelines, fine-tuning LLMs with LoRA/QLoRA, and developing multimodal systems that understand text, images, and structured data.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🕸️ Agentic Systems</h3>
+      <h3 align="center">Agentic Systems</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/-Multi--Agent-6C63FF?style=flat-square" />
         <img src="https://img.shields.io/badge/-Tool%20Use-2BD2FF?style=flat-square" />
@@ -209,7 +209,7 @@ Location:   India 🇮🇳
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">⚙️ MLOps & Infrastructure</h3>
+      <h3 align="center">MLOps & Infrastructure</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/-CI/CD%20for%20ML-6C63FF?style=flat-square" />
         <img src="https://img.shields.io/badge/-Model%20Monitoring-2BD2FF?style=flat-square" />
@@ -218,7 +218,7 @@ Location:   India 🇮🇳
       <p>End-to-end production ML pipelines with automated retraining, drift detection, experiment tracking, model versioning, and deployment automation.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🔬 Applied Research</h3>
+      <h3 align="center">Applied Research</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/-Novel%20Architectures-6C63FF?style=flat-square" />
         <img src="https://img.shields.io/badge/-Efficient%20Inference-2BD2FF?style=flat-square" />
