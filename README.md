@@ -60,7 +60,7 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" alt="Chart" /> &nbsp;About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish1100&layout=donut-vertical&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9&langs_count=6&size_weight=0.5&count_weight=0.5" width="260" alt="Top Languages" />
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish1100&layout=donut-vertical&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9&langs_count=6&size_weight=0.5&count_weight=0.5" width="260" alt="Top Languages" /> -->
 
 ```yaml
 Name:       Ashish Saha
