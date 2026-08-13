@@ -245,8 +245,8 @@ Location:   India 🇮🇳
 <a href="https://github.com/Ashish1100/Project_Order_to_Doorstep_O2D_Data-Driven-Insights-into-Food-Delivery-Demand-and-Performance">
   <img src="https://github-stats-extended.vercel.app/api/pin?username=Ashish1100&repo=Project_Order_to_Doorstep_O2D_Data-Driven-Insights-into-Food-Delivery-Demand-and-Performance" alt="Project 1">
 </a>
-<a href="https://github.com/Ashish1100/[YOUR-PROJECT-2]">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashish1100&repo=[YOUR-PROJECT-2]&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=2BD2FF&text_color=c9d1d9" width="49%" alt="Project 2" />
+<a href="https://github.com/Ashish1100/Project_Crypto-Predict-Pro-Real-Time-Cryptocurrency-Price-Prediction">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashish1100&repo=Project_Crypto-Predict-Pro-Real-Time-Cryptocurrency-Price-Prediction&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=2BD2FF&text_color=c9d1d9" width="49%" alt="Project 2" />
 </a>
 
 <!-- Row 2 -->
