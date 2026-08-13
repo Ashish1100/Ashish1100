@@ -286,9 +286,9 @@ Location:   India 🇮🇳
 <!-- Row 1: Stats + Streak side by side -->
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashish1100&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=2BD2FF&text_color=c9d1d9&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashish1100&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=6C63FF&amp;icon_color=2BD2FF&amp;text_color=c9d1d9&amp;ring_color=6C63FF&amp;include_all_commits=true&amp;count_private=true&amp;show=reviews,prs_merged,prs_merged_percentage" width="49%" alt="GitHub Stats" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashish1100&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=2BD2FF&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" width="49%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Ashish1100&amp;theme=dark&amp;hide_border=true&amp;background=0D1117&amp;stroke=6C63FF&amp;ring=6C63FF&amp;fire=FF6B6B&amp;currStreakLabel=2BD2FF&amp;sideLabels=C9D1D9&amp;dates=8B949E&amp;currStreakNum=C9D1D9&amp;sideNums=C9D1D9" width="49%" alt="GitHub Streak" />
 
 </div>
 
