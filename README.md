@@ -70,13 +70,13 @@ Focus:      Generative AI • Agentic Systems • MLOps
 Location:   India 🇮🇳
 ```
 
-- 🔬 &nbsp;Researching **Generative AI** — fine-tuning LLMs, building RAG systems, multimodal architectures
-- 🤖 &nbsp;Designing **Agentic Systems** — multi-agent frameworks, autonomous reasoning and planning
-- ⚙️ &nbsp;Shipping **Production ML Pipelines** — monitoring, A/B testing, automated retraining, CI/CD
-- 🏗️ &nbsp;Building **scalable systems** that translate complex problems into reliable, high-impact solutions
-- 📊 &nbsp;Turning **research papers into deployed products** at real-world scale
-- 💬 &nbsp;Ask me about **ML system design, LLM fine-tuning, RAG architectures, MLOps**
-- 📫 &nbsp;Reach me at &nbsp;**[ashishsaha.software@gmail.com](mailto:ashishsaha.software@gmail.com)**
+- &nbsp;Researching **Generative AI** — fine-tuning LLMs, building RAG systems, multimodal architectures
+- &nbsp;Designing **Agentic Systems** — multi-agent frameworks, autonomous reasoning and planning
+- &nbsp;Shipping **Production ML Pipelines** — monitoring, A/B testing, automated retraining, CI/CD
+- &nbsp;Building **scalable systems** that translate complex problems into reliable, high-impact solutions
+- &nbsp;Turning **research papers into deployed products** at real-world scale
+- &nbsp;Ask me about **ML system design, LLM fine-tuning, RAG architectures, MLOps**
+- &nbsp;Reach me at &nbsp;**[ashishsaha.software@gmail.com](mailto:ashishsaha.software@gmail.com)**
 
 <br clear="right"/>
 
