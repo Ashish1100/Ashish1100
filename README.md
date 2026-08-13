@@ -295,22 +295,21 @@ Location:   India 🇮🇳
 <br/>
 
 <!-- Row 2: Top Languages (compact bar) -->
-<div align="center">
+<!-- <div align="center">
 <img src="https://github-language-stats.vercel.app/api/top-langs?username=Ashish1100&theme=light" alt="Most Used Languages" />
 </div>
 
 <br/>
 
 <!-- Row 3: GitHub Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ashish1100&theme=algolia&no-frame=true&no-bg=true&column=8&margin-w=6&margin-h=6" width="100%" alt="Trophies" />
+<!-- <div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Ashish1100&amp;theme=algolia&amp;no-frame=true&amp;no-bg=true&amp;column=8&amp;margin-w=6&amp;margin-h=6" width="100%" alt="Trophies" />
 </div>
-
-<br/>
+<br/>  -->
 
 <!-- Row 4: Contribution Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashish1100&bg_color=0d1117&color=6C63FF&line=2BD2FF&point=FF6B6B&area=true&area_color=6C63FF&hide_border=true&custom_title=📈%20Contribution%20Activity" width="98%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashish1100&bg_color=0d1117&color=6C63FF&line=2BD2FF&point=FF6B6B&area=true&area_color=6C63FF&hide_border=true&custom_title=%20Contribution%20Activity" width="98%" alt="Activity Graph" />
 </div>
 
 ---
