@@ -73,10 +73,6 @@ Focused on designing scalable systems, building data-driven models, and translat
 
 
 <br/>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashish1100&bg_color=0d1117&color=4285F4&line=4285F4&point=fcfcfc&area=true&hide_border=true)](https://github.com/Ashish1100)
-
-<br/>
 <!-- Top Languages (percentage bar style) -->
 <img src="https://github-language-stats.vercel.app/api/top-langs?username=Ashish1100&theme=light" alt="Most Used Languages" />
 
@@ -87,9 +83,9 @@ Focused on designing scalable systems, building data-driven models, and translat
 
 ## Current Focus Areas
 
-- **Generative AI**: Fine-tuning LLMs, RAG systems, multimodal models
-- **Agentic Systems**: Multi-agent frameworks, autonomous decision systems
-- **MLOps**: Production ML pipelines, model monitoring, A/B testing infrastructure
+- **Generative AI**: Fine-tuning LLMs, RAG Systems, Multimodal Models
+- **Agentic Systems**: Multi-Agent Frameworks, Autonomous Decision Systems
+- **MLOps**: Production ML Pipelines, Model Monitoring, A/B Testing Infrastructure
 ---
 
 ## Quote
