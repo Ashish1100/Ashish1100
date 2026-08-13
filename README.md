@@ -27,7 +27,7 @@
 <!-- Animated typing SVG -->
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=45&lines=%F0%9F%A7%A0+Building+Intelligent+Systems+That+Scale" alt="Typing SVG 1" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=45&lines=Building+Intelligent+Systems+That+Scale" alt="Typing SVG 1" />
 
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=2BD2FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=35&lines=Generative+AI+%7C+Agentic+Systems+%7C+LLMs+%7C+RAG+%7C+MLOps" alt="Typing SVG 2" />
 
