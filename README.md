@@ -97,7 +97,7 @@ Location:   India 🇮🇳
 
 <!-- Languages & Core -->
 <details open>
-<summary>💻 &nbsp;<b>Languages & Core</b></summary>
+<summary>&nbsp;<b>Languages & Core</b></summary>
 <br/>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
