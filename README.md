@@ -242,10 +242,14 @@ Location:   India 🇮🇳
 <div align="center">
 
 <!-- Row 1 -->
-
+<a href="https://github.com/Ashish1100/Project_Order_to_Doorstep_O2D_Data-Driven-Insights-into-Food-Delivery-Demand-and-Performance">
+  <img src="https://github-stats-extended.vercel.app/api/pin?username=Ashish1100&repo=Project_Order_to_Doorstep_O2D_Data-Driven-Insights-into-Food-Delivery-Demand-and-Performance&v=2" alt="Project 1">
+</a>
 <a href="https://github.com/Ashish1100/Project_Crypto-Predict-Pro-Real-Time-Cryptocurrency-Price-Prediction">
   <img src="https://github-stats-extended.vercel.app/api/pin?username=Ashish1100&repo=Project_Crypto-Predict-Pro-Real-Time-Cryptocurrency-Price-Prediction" alt="Project 2">
 </a>
+
+
 
 <!-- <a href="https://github.com/Ashish1100/Project_Order_to_Doorstep_O2D_Data-Driven-Insights-into-Food-Delivery-Demand-and-Performance">
   <img src="https://github-stats-extended.vercel.app/api/pin?username=Ashish1100&repo=Project_Order_to_Doorstep_O2D_Data-Driven-Insights-into-Food-Delivery-Demand-and-Performance" alt="Project 1">
