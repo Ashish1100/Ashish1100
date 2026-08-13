@@ -271,7 +271,7 @@ Location:   India 🇮🇳
 
 <div align="center">
   <a href="https://github.com/Ashish1100?tab=repositories&sort=stargazers">
-    <img src="https://img.shields.io/badge/🔍%20View%20All%20Repositories%20→-6C63FF?style=for-the-badge&logoColor=white" alt="All Repos" />
+    <img src="https://img.shields.io/badge/%20View%20All%20Repositories%20→-6C63FF?style=for-the-badge&logoColor=white" alt="All Repos" />
   </a>
 </div>
 
