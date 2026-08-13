@@ -503,7 +503,7 @@ Location:   India 🇮🇳
      ☕ SECTION 13: SUPPORT / BUY ME A COFFEE
      ═══════════════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/ZGBeanl2kfmVORGjpV/giphy.gif" width="28" alt="Coffee" /> &nbsp;Support My Work
+## ☕ &nbsp;Support My Work
 
 <div align="center">
 
