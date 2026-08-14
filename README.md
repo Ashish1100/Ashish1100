@@ -333,8 +333,6 @@ Location:   India 🇮🇳
   </a>  -->
 </div>
 
-
-
 <p>
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ashish1100&theme=tokyonight" alt="Repos per Language" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ashish1100&theme=tokyonight" alt="Most Commit Language" />
@@ -344,8 +342,6 @@ Location:   India 🇮🇳
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ashish1100&theme=tokyonight" alt="Stats" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ashish1100&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
 </p>
-
-<br/>
 
 <!-- Row 3: Interactive More Stats -->
 <!-- <details>
