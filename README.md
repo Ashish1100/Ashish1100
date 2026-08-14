@@ -278,41 +278,268 @@ Location:   India 🇮🇳
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════
-     📊 SECTION 6: GITHUB STATISTICS & ANALYTICS
+     📊 SECTION 6: GITHUB STATISTICS & ANALYTICS - ENHANCED EDITION
      ═══════════════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Stats" /> &nbsp;GitHub Analytics
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35" alt="Stats" /> &nbsp; GitHub Analytics & Insights
 
-<!-- Row 1: Stats + Streak side by side -->
+<!-- <h2 align="center">
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Stats" />
+  GitHub Analytics
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Stats" />
+</h2> -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=28&amp;duration=3000&amp;pause=500&amp;color=FF79C6&amp;center=true&amp;vCenter=true&amp;width=435&amp;lines=GitHub%20Analytics;Live%20Stats;Contribution%20Graph" alt="Typing SVG" />
+</p>
+
+<!-- Live badges -->
+<!-- <p align="center">
+  <a href="https://github.com/Ashish1100">
+    <img src="https://img.shields.io/github/followers/Ashish1100?label=Followers&amp;style=for-the-badge&amp;color=6C63FF&amp;labelColor=0D1117&amp;logo=github" alt="Followers"/>
+  </a>
+  <a href="https://github.com/Ashish1100?tab=repositories">
+    <img src="https://img.shields.io/github/stars/Ashish1100?label=Total%20Stars&amp;style=for-the-badge&amp;color=FF6B6B&amp;labelColor=0D1117&amp;logo=github" alt="Stars"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Ashish1100&amp;label=Profile%20Views&amp;color=2BD2FF&amp;style=for-the-badge" alt="Views"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAshish1100&amp;label=Repositories&amp;query=%24.public_repos&amp;style=for-the-badge&amp;color=F9D423&amp;labelColor=0D1117&amp;logo=github" alt="Repos"/>
+</p> -->
+
+<!-- Row 1: Stats + Streak -->
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Ashish1100">
+        <img src="https://github-readme-stats.vercel.app/api?username=Ashish1100&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=FF79C6&amp;icon_color=8BE9FD&amp;text_color=F8F8F2&amp;ring_color=BD93F9&amp;include_all_commits=true&amp;count_private=true&amp;show=reviews,prs_merged,prs_merged_percentage&amp;rank_icon=github&amp;custom_title=Ashish%20GitHub%20Stats" width="100%" alt="GitHub Stats" loading="lazy" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Ashish1100">
+        <img src="https://streak-stats.demolab.com?user=Ashish1100&amp;theme=radical&amp;hide_border=true&amp;background=0D1117&amp;stroke=FF79C6&amp;ring=8BE9FD&amp;fire=FF6B6B&amp;currStreakLabel=8BE9FD&amp;sideLabels=C9D1D9&amp;dates=8B949E&amp;currStreakNum=F8F8F2&amp;sideNums=F8F8F2" width="100%" alt="GitHub Streak" loading="lazy" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- Row 2: Contribution Activity Graph -->
 <div align="center">
-
-  <!--<img src="https://github-readme-stats.vercel.app/api?username=Ashish1100&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=6C63FF&amp;icon_color=2BD2FF&amp;text_color=c9d1d9&amp;ring_color=6C63FF&amp;include_all_commits=true&amp;count_private=true&amp;show=reviews,prs_merged,prs_merged_percentage" width="49%" alt="GitHub Stats" /> -->
-
-  <img src="https://streak-stats.demolab.com/?user=Ashish1100&amp;theme=dark&amp;hide_border=true&amp;background=0D1117&amp;stroke=6C63FF&amp;ring=6C63FF&amp;fire=FF6B6B&amp;currStreakLabel=2BD2FF&amp;sideLabels=C9D1D9&amp;dates=8B949E&amp;currStreakNum=C9D1D9&amp;sideNums=C9D1D9" width="49%" alt="GitHub Streak" />
-
+  <a href="https://github.com/Ashish1100">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashish1100&amp;bg_color=0d1117&amp;color=FF79C6&amp;line=8BE9FD&amp;point=BD93F9&amp;area=true&amp;area_color=FF79C6&amp;hide_border=true&amp;custom_title=%20Contribution%20Activity" width="98%" alt="Activity Graph" loading="lazy" />
+  </a>
 </div>
 
 <br/>
 
-<!-- Row 2: Top Languages (compact bar) -->
-<!-- <div align="center">
-<img src="https://github-language-stats.vercel.app/api/top-langs?username=Ashish1100&theme=light" alt="Most Used Languages" />
-</div>
+<!-- Row 3: Interactive More Stats -->
+<details>
+  <summary>Show More GitHub Analytics</summary>
+  <br/>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish1100&amp;layout=compact&amp;langs_count=10&amp;theme=radical&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=FF79C6&amp;text_color=F8F8F2&amp;icon_color=8BE9FD&amp;card_width=500&amp;custom_title=Most%20Used%20Languages" width="450" alt="Most Used Languages" loading="lazy" />
+    <br/><br/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Ashish1100&amp;theme=onedark&amp;no-frame=true&amp;no-bg=true&amp;column=8&amp;margin-w=8&amp;margin-h=8" width="100%" alt="Trophies" loading="lazy" />
+  </div>
+</details>
 
 <br/>
 
-<!-- Row 3: GitHub Trophies -->
-<!-- <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Ashish1100&amp;theme=algolia&amp;no-frame=true&amp;no-bg=true&amp;column=8&amp;margin-w=6&amp;margin-h=6" width="100%" alt="Trophies" />
-</div>
-<br/>  -->
-
-<!-- Row 4: Contribution Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashish1100&bg_color=0d1117&color=6C63FF&line=2BD2FF&point=FF6B6B&area=true&area_color=6C63FF&hide_border=true&custom_title=%20Contribution%20Activity" width="98%" alt="Activity Graph" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/%20Keep%20Coding%20%26%20Stay%20Awesome-6C63FF?style=for-the-badge&amp;labelColor=0D1117" alt="Keep Coding" />
+</p>
 
 ---
+
+<!-- <div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:2BD2FF,100:FF6B6B&height=120&section=header&text=GitHub%20Analytics&fontSize=32&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%" alt="GitHub Analytics Banner" />
+
+</div> -->
+
+<!-- <br> -->
+
+<!-- Main statistics -->
+<!-- <div align="center">
+
+  <a href="https://github.com/Ashish1100">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ashish1100&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=16&bg_color=0D1117&title_color=6C63FF&icon_color=2BD2FF&text_color=C9D1D9&custom_title=Ashish's%20GitHub%20Stats" alt="Ashish's GitHub Stats" />
+  </a>
+
+  <a href="https://github.com/Ashish1100">
+    <img height="180" src="https://streak-stats.demolab.com/?user=Ashish1100&hide_border=true&border_radius=16&background=0D1117&stroke=6C63FF&ring=2BD2FF&fire=FF6B6B&currStreakLabel=2BD2FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=C9D1D9&dates=8B949E" alt="Ashish's GitHub Streak" />
+  </a>
+
+</div> -->
+
+<!-- <br> -->
+
+<!-- Languages and profile summary -->
+<!-- <div align="center">
+
+  <a href="https://github.com/Ashish1100">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish1100&layout=compact&langs_count=8&hide_border=true&border_radius=16&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&icon_color=2BD2FF&custom_title=Most%20Used%20Languages" alt="Most Used Languages" />
+  </a>
+
+  <a href="https://github.com/Ashish1100">
+    <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashish1100&theme=github_dark" alt="GitHub Profile Summary" />
+  </a> -->
+
+<!-- </div>
+
+<br> -->
+
+<!-- Contribution graph -->
+<!-- <div align="center">
+
+  <a href="https://github.com/Ashish1100">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashish1100&bg_color=0D1117&color=C9D1D9&line=2BD2FF&point=FF6B6B&area=true&hide_border=true&custom_title=Contribution%20Activity&radius=16" width="98%" alt="Contribution Activity Graph" />
+  </a>
+
+</div>
+
+<br> -->
+
+<!-- GitHub trophies -->
+<!-- <div align="center">
+
+  <img src="https://github-profile-trophy.vercel.app/?username=Ashish1100&theme=algolia&no-frame=true&no-bg=true&column=8&margin-w=8&margin-h=8" width="98%" alt="GitHub Trophies" />
+
+</div>
+
+<br> -->
+
+<!-- Contribution snake -->
+<!-- <div align="center">
+
+  <img src="https://raw.githubusercontent.com/Ashish1100/Ashish1100/output/github-contribution-grid-snake-dark.svg" width="98%" alt="Contribution Snake Animation" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <a href="https://github.com/Ashish1100?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories" />
+  </a>
+
+  <a href="https://github.com/Ashish1100">
+    <img src="https://img.shields.io/badge/Follow%20My%20Journey-2BD2FF?style=for-the-badge&logo=github&logoColor=0D1117" alt="Follow My Journey" />
+  </a>
+
+</div> -->
+
+
+<!-- Custom CSS for animations and hover effects -->
+<!-- <style>
+  .github-section { 
+    animation: fadeIn 1.2s ease-in-out;
+  }
+  .stat-card { 
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    border-radius: 12px;
+    overflow: hidden;
+  }
+  .stat-card:hover { 
+    transform: translateY(-5px) scale(1.02);
+    box-shadow: 0 8px 20px rgba(108, 99, 255, 0.4);
+  }
+  @keyframes fadeIn {
+    from { opacity: 0; transform: translateY(20px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+  @keyframes pulse {
+    0%, 100% { transform: scale(1); }
+    50% { transform: scale(1.05); }
+  }
+  .pulse-animation {
+    animation: pulse 2s infinite;
+  }
+</style>
+
+<div class="github-section"> -->
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════
+     🎨 ROW 1: Main Stats + Streak (Enhanced with gradients & shadows)
+     ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<!-- <div align="center">
+
+<table>
+<tr>
+<td align="center">
+  <img class="stat-card" src="https://github-readme-stats.vercel.app/api?username=Ashish1100&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=2BD2FF&text_color=c9d1d9&ring_color=6C63FF&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage&border_radius=12&border_width=2&border_color=6C63FF" width="100%" alt="GitHub Stats" />
+</td>
+<td align="center">
+  <img class="stat-card pulse-animation" src="https://streak-stats.demolab.com/?user=Ashish1100&theme=dark&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=2BD2FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&border_radius=12&border_width=2&border_color=FF6B6B" width="100%" alt="GitHub Streak" />
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/> -->
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════
+     🌈 ROW 2: Top Languages (Vibrant gradient theme)
+     ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<!-- <div align="center">
+  <img class="stat-card" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashish1100&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9&icon_color=2BD2FF&border_radius=12&border_width=2&border_color=6C63FF&langs_count=8&layout=compact" alt="Most Used Languages" />
+</div>
+
+<br/> -->
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════
+     🏆 ROW 3: GitHub Trophies (Enhanced with modern theme)
+     ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<!-- <div align="center">
+  <img class="stat-card" src="https://github-profile-trophy.vercel.app/?username=Ashish1100&theme=onestar&no-frame=true&no-bg=false&column=8&margin-w=8&margin-h=8&border_radius=12" width="100%" alt="Trophies" />
+</div>
+
+<br/> -->
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════
+     📈 ROW 4: Contribution Activity Graph (Neon gradient style)
+     ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<!-- <div align="center">
+  <img class="stat-card" src="https://github-readme-activity-graph.vercel.app/graph?username=Ashish1100&bg_color=0d1117&color=6C63FF&line=2BD2FF&point=FF6B6B&area=true&area_color=6C63FF,2BD2FF&hide_border=true&custom_title=Contribution%20Activity&border_radius=12&border_width=2&border_color=6C63FF" width="98%" alt="Activity Graph" />
+</div>
+
+<br/> -->
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════
+     ✨ BONUS ROW 5: Additional Stats (Optional - Add more depth)
+     ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<!-- <div align="center">
+  <table>
+  <tr>
+  <td align="center">
+    <img class="stat-card" src="https://github-readme-stats.vercel.app/api?username=Ashish1100&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=2BD2FF&icon_color=6C63FF&text_color=c9d1d9&hide=stars,commits,prs,issues,contribs&show=reviews,discussions_started,discussions_answered&border_radius=12" width="48%" alt="Additional Stats" />
+  </td>
+  <td align="center">
+    <img class="stat-card" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashish1100&theme=radical&hide_border=true&border_radius=12" width="48%" alt="Profile Summary" />
+  </td>
+  </tr>
+  </table>
+</div>
+
+<br/> -->
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════
+     🎯 ROW 6: Repo Cards (Showcase your best work)
+     ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<!-- <div align="center">
+  <img class="stat-card" src="https://github-readme-stats.vercel.app/api/pin/?username=Ashish1100&repo=your-best-repo&theme=radical&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=2BD2FF&text_color=c9d1d9&border_radius=12&border_width=2&border_color=6C63FF" width="48%" alt="Featured Repo" />
+  <img class="stat-card" src="https://github-readme-stats.vercel.app/api/pin/?username=Ashish1100&repo=another-repo&theme=radical&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=2BD2FF&text_color=c9d1d9&border_radius=12&border_width=2&border_color=6C63FF" width="48%" alt="Another Repo" />
+</div>
+
+</div> -->
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════
      🐍 SECTION 7: CONTRIBUTION SNAKE ANIMATION
