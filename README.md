@@ -365,6 +365,12 @@ Location:   India 🇮🇳
 <br/>
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashish1100&theme=tokyonight" alt="Profile Details" />
+</p>
+
+<br/>
+
+<p align="center">
   <img src="https://img.shields.io/badge/%20Keep%20Coding%20%26%20Stay%20Awesome-6C63FF?style=for-the-badge&amp;labelColor=0D1117" alt="Keep Coding" />
 </p>
 
