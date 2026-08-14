@@ -325,10 +325,25 @@ Location:   India 🇮🇳
 
 <!-- Row 2: Contribution Activity Graph -->
 <div align="center">
-  <a href="https://github.com/Ashish1100">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashish1100&amp;bg_color=0d1117&amp;color=FF79C6&amp;line=8BE9FD&amp;point=BD93F9&amp;area=true&amp;area_color=FF79C6&amp;hide_border=true&amp;custom_title=%20Contribution%20Activity" width="98%" alt="Activity Graph" loading="lazy" />
-  </a>
+     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashish1100&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
+
+  <!-- <a href="https://github.com/Ashish1100">
+
+<!--    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashish1100&amp;bg_color=0d1117&amp;color=FF79C6&amp;line=8BE9FD&amp;point=BD93F9&amp;area=true&amp;area_color=FF79C6&amp;hide_border=true&amp;custom_title=%20Contribution%20Activity" width="98%" alt="Activity Graph" loading="lazy" />
+  </a>  -->
 </div>
+
+
+
+<p>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ashish1100&theme=tokyonight" alt="Repos per Language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ashish1100&theme=tokyonight" alt="Most Commit Language" />
+</p>
+
+<p>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ashish1100&theme=tokyonight" alt="Stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ashish1100&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
+</p>
 
 <br/>
 
