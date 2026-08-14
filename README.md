@@ -308,11 +308,11 @@ Location:   India 🇮🇳
 <!-- Row 1: Stats + Streak -->
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="50%">
+    <!-- <td align="center" width="50%">
       <a href="https://github.com/Ashish1100">
-        <img src="https://github-readme-stats.vercel.app/api?username=Ashish1100&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=FF79C6&amp;icon_color=8BE9FD&amp;text_color=F8F8F2&amp;ring_color=BD93F9&amp;include_all_commits=true&amp;count_private=true&amp;show=reviews,prs_merged,prs_merged_percentage&amp;rank_icon=github&amp;custom_title=Ashish%20GitHub%20Stats" width="100%" alt="GitHub Stats" loading="lazy" />
+         <img src="https://github-readme-stats.vercel.app/api?username=Ashish1100&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF79C6&icon_color=8BE9FD&text_color=F8F8F2&ring_color=BD93F9&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats" />
       </a>
-    </td>
+    </td> -->
     <td align="center" width="50%">
       <a href="https://github.com/Ashish1100">
         <img src="https://streak-stats.demolab.com?user=Ashish1100&amp;theme=radical&amp;hide_border=true&amp;background=0D1117&amp;stroke=FF79C6&amp;ring=8BE9FD&amp;fire=FF6B6B&amp;currStreakLabel=8BE9FD&amp;sideLabels=C9D1D9&amp;dates=8B949E&amp;currStreakNum=F8F8F2&amp;sideNums=F8F8F2" width="100%" alt="GitHub Streak" loading="lazy" />
@@ -333,15 +333,19 @@ Location:   India 🇮🇳
 <br/>
 
 <!-- Row 3: Interactive More Stats -->
-<details>
+<!-- <details>
   <summary>Show More GitHub Analytics</summary>
   <br/>
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish1100&amp;layout=compact&amp;langs_count=10&amp;theme=radical&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=FF79C6&amp;text_color=F8F8F2&amp;icon_color=8BE9FD&amp;card_width=500&amp;custom_title=Most%20Used%20Languages" width="450" alt="Most Used Languages" loading="lazy" />
     <br/><br/>
-    <img src="https://github-profile-trophy.vercel.app/?username=Ashish1100&amp;theme=onedark&amp;no-frame=true&amp;no-bg=true&amp;column=8&amp;margin-w=8&amp;margin-h=8" width="100%" alt="Trophies" loading="lazy" />
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Ashish1100&theme=react-dark&hide_border=true"
+      width="100%"
+      alt="GitHub Activity Graph"
+    />
   </div>
-</details>
+</details> -->
 
 <br/>
 
