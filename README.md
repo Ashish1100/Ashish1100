@@ -306,20 +306,20 @@ Location:   India 🇮🇳
 </p> -->
 
 <!-- Row 1: Stats + Streak -->
-<table align="center" width="100%">
+<!-- <table align="center" width="100%">
   <tr>
-    <!-- <td align="center" width="50%">
+    <td align="center" width="50%">
       <a href="https://github.com/Ashish1100">
          <img src="https://github-readme-stats.vercel.app/api?username=Ashish1100&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF79C6&icon_color=8BE9FD&text_color=F8F8F2&ring_color=BD93F9&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats" />
       </a>
-    </td> -->
+    </td>
     <td align="center" width="50%">
       <a href="https://github.com/Ashish1100">
         <img src="https://streak-stats.demolab.com?user=Ashish1100&amp;theme=radical&amp;hide_border=true&amp;background=0D1117&amp;stroke=FF79C6&amp;ring=8BE9FD&amp;fire=FF6B6B&amp;currStreakLabel=8BE9FD&amp;sideLabels=C9D1D9&amp;dates=8B949E&amp;currStreakNum=F8F8F2&amp;sideNums=F8F8F2" width="100%" alt="GitHub Streak" loading="lazy" />
       </a>
     </td>
   </tr>
-</table>
+</table> -->
 
 <br/>
 
