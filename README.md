@@ -1,18 +1,3 @@
-<!-- ╔═══════════════════════════════════════════════════════════════════════════════╗
-     ║                                                                               ║
-     ║   ✨ ASHISH SAHA — Premium GitHub Profile README ✨                           ║
-     ║   ML Researcher · AI Engineer · Systems Builder                               ║
-     ║                                                                               ║
-     ║   🎨 Color Palette:                                                           ║
-     ║   Primary:   #6C63FF (Violet)     Accent:   #00D2FF (Cyan)                    ║
-     ║   Warm:      #FF6B6B (Coral)      Success:  #2BFF88 (Mint)                    ║
-     ║   Gradient:  #FA8BFF → #2BD2FF → #2BFF88                                     ║
-     ║                                                                               ║
-     ║   📝 Instructions: Search for [REPLACE] to find all placeholders              ║
-     ║                                                                               ║
-     ╚═══════════════════════════════════════════════════════════════════════════════╝ -->
-
-
 <!-- ═══════════════════════════════════════════════════════════════════════════════
      🌊 SECTION 1: ANIMATED HEADER
      ═══════════════════════════════════════════════════════════════════════════════ -->
@@ -191,6 +176,48 @@ Location:   India 🇮🇳
     <td width="50%" valign="top">
       <h3 align="center">Generative AI</h3>
       <p align="center">
+        <img src="https://img.shields.io/badge/-LLM%20Fine--Tuning-C4C0FF?style=flat-square" />
+        <img src="https://img.shields.io/badge/-RAG%20Systems-63E0FF?style=flat-square" />
+        <img src="https://img.shields.io/badge/-Multimodal-FFACAC?style=flat-square" />
+      </p>
+      <p>Building production-grade RAG pipelines, fine-tuning LLMs with LoRA/QLoRA, and developing multimodal systems that understand text, images, and structured data.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Agentic Systems</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/-Multi--Agent-C4C0FF?style=flat-square" />
+        <img src="https://img.shields.io/badge/-Tool%20Use-63E0FF?style=flat-square" />
+        <img src="https://img.shields.io/badge/-Reasoning-FFACAC?style=flat-square" />
+      </p>
+      <p>Designing multi-agent frameworks where specialized agents reason, plan, use tools, and collaborate to solve complex tasks autonomously.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">MLOps & Infrastructure</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/-CI/CD%20for%20ML-C4C0FF?style=flat-square" />
+        <img src="https://img.shields.io/badge/-Model%20Monitoring-63E0FF?style=flat-square" />
+        <img src="https://img.shields.io/badge/-A/B%20Testing-FFACAC?style=flat-square" />
+      </p>
+      <p>End-to-end production ML pipelines with automated retraining, drift detection, experiment tracking, model versioning, and deployment automation.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Applied Research</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/-Novel%20Architectures-C4C0FF?style=flat-square" />
+        <img src="https://img.shields.io/badge/-Efficient%20Inference-63E0FF?style=flat-square" />
+        <img src="https://img.shields.io/badge/-Scalable%20Systems-FFACAC?style=flat-square" />
+      </p>
+      <p>Bridging the gap between cutting-edge research and deployment — turning state-of-the-art papers into reliable, scalable production systems.</p>
+    </td>
+  </tr>
+</table>
+<!-- <table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Generative AI</h3>
+      <p align="center">
         <img src="https://img.shields.io/badge/-LLM%20Fine--Tuning-6C63FF?style=flat-square" />
         <img src="https://img.shields.io/badge/-RAG%20Systems-2BD2FF?style=flat-square" />
         <img src="https://img.shields.io/badge/-Multimodal-FF6B6B?style=flat-square" />
@@ -227,7 +254,7 @@ Location:   India 🇮🇳
       <p>Bridging the gap between cutting-edge research and deployment — turning state-of-the-art papers into reliable, scalable production systems.</p>
     </td>
   </tr>
-</table>
+</table> -->
 
 ---
 
