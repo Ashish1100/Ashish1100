@@ -284,7 +284,7 @@ Location:   India 🇮🇳
 A **data-driven** food delivery analytics project utilizing Python and **Exploratory Data Analysis (EDA)**. Designed to uncover actionable insights into demand patterns, decode customer behavior, evaluate restaurant performance, and highlight operational inefficiencies.
 
 **Tech Stack:** <p>
-  <code>Python</code> <code>Pandas</code> <code>NumPy</code> <code>Matplotlib</code> <code>Seaborn</code> <code>Plotly</code> <code>Jupyter Notebook</code>
+  <code>Python</code> <code>Pandas</code> <code>NumPy</code> <code>Matplotlib</code> <code>Seaborn</code> <code>Plotly</code>
 </p>
 
 **Dataset:** *Food delivery orders with timestamps, restaurant info, customer details, and delivery metrics.*
@@ -303,7 +303,7 @@ A **data-driven** food delivery analytics project utilizing Python and **Explora
 An **AI-driven** web application utilizing **Deep Learning (LSTM Neural Networks)** to forecast real-time cryptocurrency prices. Deployed via Streamlit, it features interactive charts, iterative time-series forecasting, and advanced regression metrics to empower data-driven trading.
 
 **Tech Stack:** <p>
-  <code>Python</code> <code>TensorFlow/Keras</code> <code>Streamlit</code> <code>Pandas</code> <code>NumPy</code> <code>Scikit-Learn</code> <code>Plotly</code>
+  <code>Python</code> <code>TensorFlow/Keras</code> <code>Streamlit</code> <code>Scikit-Learn</code> <code>Plotly</code>
 </p>
 
 **Dataset:** *Historical cryptocurrency prices (BTC, ETH, SOL, etc.) processed into 60-day normalized sequence timesteps.*
