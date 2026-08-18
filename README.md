@@ -400,7 +400,7 @@ An **AI-driven** web application utilizing **Deep Learning (LSTM Neural Networks
 
 <!-- Row 2: Contribution Activity Graph -->
 <div align="center">
-     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashish1100&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
+     <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashish1100&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph" width="100%" /> -->
 
   <!-- <a href="https://github.com/Ashish1100">
 
