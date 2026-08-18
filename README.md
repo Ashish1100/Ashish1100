@@ -433,8 +433,6 @@ An **AI-driven** web application utilizing **Deep Learning (LSTM Neural Networks
   </div>
 </details> -->
 
-<br/>
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashish1100&theme=tokyonight" alt="Profile Details" width="100%" />
 </p>
