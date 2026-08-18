@@ -239,15 +239,15 @@ Location:   India 🇮🇳
 
 <!-- [REPLACE] Replace the repo names below with your actual repositories -->
 
-<div align="center">
+<!-- <div align="center"> -->
 
 <!-- Row 1 -->
-<a href="https://github.com/Ashish1100/Project_Order_to_Doorstep_O2D_Data-Driven-Insights-into-Food-Delivery-Demand-and-Performance">
+<!-- <a href="https://github.com/Ashish1100/Project_Order_to_Doorstep_O2D_Data-Driven-Insights-into-Food-Delivery-Demand-and-Performance">
   <img src="https://github-stats-extended.vercel.app/api/pin?username=Ashish1100&repo=Project_Order_to_Doorstep_O2D_Data-Driven-Insights-into-Food-Delivery-Demand-and-Performance&v=2" alt="Project 1">
 </a>
 <a href="https://github.com/Ashish1100/Project_Crypto-Predict-Pro-Real-Time-Cryptocurrency-Price-Prediction">
   <img src="https://github-stats-extended.vercel.app/api/pin?username=Ashish1100&repo=Project_Crypto-Predict-Pro-Real-Time-Cryptocurrency-Price-Prediction" alt="Project 2">
-</a>
+</a> -->
 
 <!-- Row 2 -->
 <!-- <a href="https://github.com/Ashish1100/[YOUR-PROJECT-3]">
@@ -264,6 +264,57 @@ Location:   India 🇮🇳
 <a href="https://github.com/Ashish1100/[YOUR-PROJECT-6]">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashish1100&repo=[YOUR-PROJECT-6]&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=2BD2FF&text_color=c9d1d9" width="49%" alt="Project 6" />
 </a> -->
+
+<!-- </div> -->
+
+<div align="center">
+
+<table>
+<tr>
+
+<!-- PROJECT 1: O2D -->
+<td width="50%" valign="top">
+
+#### Order to Doorstep (O2D) — Food Analytics
+[![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/Ashish1100/Project_Order_to_Doorstep_O2D_Data-Driven-Insights-into-Food-Delivery-Demand-and-Performance)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+[![Live](https://img.shields.io/badge/Live_Demo-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://projecto2ddataanalysisnotebook.vercel.app/)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=250&section=header&text=Order%20to%20Doorstep%20(O2D)&fontSize=45&fontColor=10b981&desc=Data-Driven%20Food%20Delivery%20Analytics&descSize=20&descAlignY=70&descAlign=50" alt="O2D Project Banner" width="100%" style="border-radius: 8px;">
+
+A **data-driven** food delivery analytics project utilizing Python and **Exploratory Data Analysis (EDA)**. Designed to uncover actionable insights into demand patterns, decode customer behavior, evaluate restaurant performance, and highlight operational inefficiencies.
+
+**Tech Stack:** <p>
+  <code>Python</code> <code>Pandas</code> <code>NumPy</code> <code>Matplotlib</code> <code>Seaborn</code> <code>Plotly</code> <code>Jupyter Notebook</code>
+</p>
+
+**Dataset:** *Food delivery orders with timestamps, restaurant info, customer details, and delivery metrics.*
+
+</td>
+
+<!-- PROJECT 2: CRYPTO PREDICT PRO -->
+<td width="50%" valign="top">
+
+#### Crypto Predict Pro — Price Prediction
+[![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/Ashish1100/Project_Crypto-Predict-Pro-Real-Time-Cryptocurrency-Price-Prediction)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+[![Live](https://img.shields.io/badge/Live_App-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](#) <!-- Add your Streamlit URL in the (#) -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=161b22&height=250&section=header&text=Crypto%20Predict%20Pro&fontSize=45&fontColor=f7931a&desc=Real-Time%20Cryptocurrency%20Prediction&descSize=18&descAlignY=70&descAlign=50" alt="Crypto Predict Pro Banner" width="100%" style="border-radius: 8px;">
+
+An **AI-driven** web application utilizing **Deep Learning (LSTM Neural Networks)** to forecast real-time cryptocurrency prices. Deployed via Streamlit, it features interactive charts, iterative time-series forecasting, and advanced regression metrics to empower data-driven trading.
+
+**Tech Stack:** <p>
+  <code>Python</code> <code>TensorFlow/Keras</code> <code>Streamlit</code> <code>Pandas</code> <code>NumPy</code> <code>Scikit-Learn</code> <code>Plotly</code>
+</p>
+
+**Dataset:** *Historical cryptocurrency prices (BTC, ETH, SOL, etc.) processed into 60-day normalized sequence timesteps.*
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
