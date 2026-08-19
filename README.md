@@ -26,9 +26,9 @@
   <a href="https://www.linkedin.com/in/ashishsaha21/"><img src="https://img.shields.io/badge/-Ashish%20Saha-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:ashishsaha.software@gmail.com"><img src="https://img.shields.io/badge/-Email%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/Ashish1100"><img src="https://img.shields.io/badge/-Ashish1100-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <img src="https://komarev.com/ghpvc/?username=ashish1100&label=Visitors&color=6C63FF&style=flat-square" alt="Visitors" />
+ <!--  <img src="https://komarev.com/ghpvc/?username=ashish1100&label=Visitors&color=6C63FF&style=flat-square" alt="Visitors" />
   <img src="https://img.shields.io/github/followers/Ashish1100?label=Followers&style=flat-square&color=2BD2FF&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Ashish1100?label=Total%20Stars&style=flat-square&color=FFE66D&logo=github" alt="Stars" />
+  <img src="https://img.shields.io/github/stars/Ashish1100?label=Total%20Stars&style=flat-square&color=FFE66D&logo=github" alt="Stars" /> -->
 
 </div>
 
