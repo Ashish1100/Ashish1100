@@ -68,6 +68,116 @@ Location:   India 🇮🇳
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════
+     SECTION 2.5: EDUCATION
+     ═══════════════════════════════════════════════════════════════════════════════ -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="32" alt="Education" /> &nbsp;Education
+
+<div align="center">
+
+<table>
+  <tr>
+    <th width="40%" align="center">Degree / Specialization</th>
+    <th width="35%" align="center">Institution</th>
+    <th width="15%" align="center">Timeline</th>
+    <th width="10%" align="center">Score</th>
+  </tr>
+  <tr>
+    <td>
+      <b>B.Tech in Computer Science & Engineering</b><br/>
+      <i>Specialization in AI & Machine Learning</i>
+    </td>
+    <td align="center">
+      <b>[Your University / College Name]</b><br/>
+      <i>[City, State]</i>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-2020_--_2024-6C63FF?style=flat-square" alt="Timeline" />
+    </td>
+    <td align="center">
+      <code>[X.XX] CGPA</code>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>[Higher Secondary / High School Name]</b><br/>
+      <i>[Science Stream / Major]</i>
+    </td>
+    <td align="center">
+      <b>[Your School Name]</b><br/>
+      <i>[City, State]</i>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-2018_--_2020-2BD2FF?style=flat-square" alt="Timeline" />
+    </td>
+    <td align="center">
+      <code>[XX.X]%</code>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════
+     💼 SECTION 2.6: EXPERIENCE
+     ═══════════════════════════════════════════════════════════════════════════════ -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="32" alt="Experience" /> &nbsp;Experience
+
+<div align="center">
+
+<table>
+  <tr>
+    <th width="30%" align="center">Role & Company</th>
+    <th width="70%" align="left">Responsibilities & Achievements</th>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <br/>
+      <img src="https://img.shields.io/badge/Machine_Learning_Engineer-0D1117?style=for-the-badge&logo=openai&logoColor=white" alt="Role" /><br/><br/>
+      <b>[Company Name]</b><br/>
+      <i>[City, Country / Remote]</i><br/><br/>
+      <img src="https://img.shields.io/badge/Jan_2024_--_Present-2BFF88?style=flat-square" alt="Timeline" />
+    </td>
+    <td valign="top">
+      <ul>
+        <li><b>Systems Engineered:</b> Architected and deployed scalable RAG (Retrieval-Augmented Generation) pipelines handling <b>[X,000+]</b> daily queries.</li>
+        <li><b>Model Optimization:</b> Fine-tuned open-weight LLMs (Llama-3, Mistral) using QLoRA techniques, improving context retrieval accuracy by <b>[X]%</b>.</li>
+        <li><b>Infrastructure & MLOps:</b> Orchestrated end-to-end model deployments using <b>Docker</b>, <b>Kubernetes</b>, and <b>MLflow</b>.</li>
+        <li><b>Tech Stack:</b> <code>Python</code> <code>PyTorch</code> <code>LangChain</code> <code>FastAPI</code> <code>Docker</code></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <br/>
+      <img src="https://img.shields.io/badge/AI_Research_Intern-0D1117?style=for-the-badge&logo=jupyter&logoColor=white" alt="Role" /><br/><br/>
+      <b>[Lab / Company Name]</b><br/>
+      <i>[City, Country / Remote]</i><br/><br/>
+      <img src="https://img.shields.io/badge/Jun_2023_--_Dec_2023-2BD2FF?style=flat-square" alt="Timeline" />
+    </td>
+    <td valign="top">
+      <ul>
+        <li><b>Agentic Frameworks:</b> Conducted research on multi-agent collaboration frameworks to automate complex planning and reasoning tasks.</li>
+        <li><b>Data Engineering:</b> Built automated web scrapers and data preprocessing pipelines, generating a high-quality dataset of <b>[X]M</b> records.</li>
+        <li><b>Impact:</b> Prototyped a multimodal computer vision model that improved object detection accuracy by <b>[X]%</b> compared to baseline.</li>
+        <li><b>Tech Stack:</b> <code>Python</code> <code>TensorFlow</code> <code>Pandas</code> <code>Scikit-Learn</code> <code>OpenCV</code></li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════
      🛠️ SECTION 3: TECHNOLOGY STACK
      ═══════════════════════════════════════════════════════════════════════════════ -->
 
