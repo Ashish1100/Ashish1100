@@ -717,9 +717,10 @@ An **AI-driven** web application utilizing **Deep Learning (LSTM Neural Networks
 
 <div align="center">
 
-| Repositories | Stars | Forks | Issues | Commits |
-|:---:|:---:|:---:|:---:|:---:|
-| ![Repos](https://img.shields.io/badge/dynamic/json?color=6C63FF&label=&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAshish1100&style=flat-square) | ![Stars](https://img.shields.io/github/stars/Ashish1100?affiliations=OWNER&style=flat-square&color=FFE66D) | ![Forks](https://img.shields.io/badge/dynamic/json?color=2BD2FF&label=&query=%24.length&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAshish1100%2Frepos%3Ftype%3Dforks&style=flat-square) | ![Issues](https://img.shields.io/badge/Contributor-active-2BFF88?style=flat-square) | ![Commits](https://img.shields.io/badge/daily-builder-FF6B6B?style=flat-square) |
+| Repositories | Stars | Issues | Commits |
+|:---:|:---:|:---:|:---:|
+| ![Repos](https://img.shields.io/badge/dynamic/json?color=6C63FF&label=&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAshish1100&style=flat-square) | ![Stars](https://img.shields.io/github/stars/Ashish1100?affiliations=OWNER&style=flat-square&color=FFE66D) | ![Issues](https://img.shields.io/badge/Contributor-active-2BFF88?style=flat-square) | ![Commits](https://img.shields.io/badge/daily-builder-FF6B6B?style=flat-square) |
+
 
 </div>
 
@@ -728,7 +729,7 @@ An **AI-driven** web application utilizing **Deep Learning (LSTM Neural Networks
 <!-- ═══════════════════════════════════════════════════════════════════════════════
      ⏱️ SECTION 9: WAKATIME / CODING STATS (Optional)
      ═══════════════════════════════════════════════════════════════════════════════ -->
-
+<!--  | ![Forks](https://img.shields.io/badge/dynamic/json?color=2BD2FF&label=&query=%24.length&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAshish1100%2Frepos%3Ftype%3Dforks&style=flat-square) -->
 <!--
   [REPLACE] If you use WakaTime, uncomment this section and replace YOUR_WAKATIME_USERNAME.
   Sign up at https://wakatime.com and install the extension in your editor.
