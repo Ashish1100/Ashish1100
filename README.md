@@ -65,13 +65,12 @@ Location:   India 🇮🇳
 
 <br clear="right"/>
 
----
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════
      SECTION 2.5: EDUCATION
      ═══════════════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="32" alt="Education" /> &nbsp;Education
+<!-- ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="32" alt="Education" /> &nbsp;Education
 
 <div align="center">
 
@@ -126,7 +125,7 @@ Location:   India 🇮🇳
      💼 SECTION 2.6: EXPERIENCE
      ═══════════════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="32" alt="Experience" /> &nbsp;Experience
+<!-- ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="32" alt="Experience" /> &nbsp;Experience
 
 <div align="center">
 
@@ -173,7 +172,7 @@ Location:   India 🇮🇳
 
 </div>
 
-<br/>
+<br/> -->
 
 ---
 
