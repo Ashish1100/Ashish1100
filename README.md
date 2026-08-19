@@ -868,7 +868,7 @@ An **AI-driven** web application utilizing **Deep Learning (LSTM Neural Networks
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FA8BFF,50:2BD2FF,100:2BFF88&height=1&section=header" width="100%" alt="Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FA8BFF,50:2BD2FF,100:2BFF88&height=5&section=header" width="100%" alt="Divider" />
 
   <br/>
 
