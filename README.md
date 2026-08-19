@@ -12,7 +12,7 @@
 <!-- Animated typing SVG -->
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=45&lines=Building+Intelligent+Systems+That+Scale" alt="Typing SVG 1" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF79C6&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=45&lines=Building+Intelligent+Systems+That+Scale" alt="Typing SVG 1" />
 
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=2BD2FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=35&lines=Generative+AI+%7C+Agentic+Systems+%7C+LLMs+%7C+RAG+%7C+MLOps" alt="Typing SVG 2" />
 
@@ -365,7 +365,7 @@ An **AI-driven** web application utilizing **Deep Learning (LSTM Neural Networks
 </h2> -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=28&amp;duration=3000&amp;pause=500&amp;color=FF79C6&amp;center=true&amp;vCenter=true&amp;width=435&amp;lines=GitHub%20Analytics;Live%20Stats;Contribution%20Graph" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=28&amp;duration=3000&amp;pause=500&amp;color=70FFD2&amp;center=true&amp;vCenter=true&amp;width=435&amp;lines=GitHub%20Analytics;Live%20Stats;Contribution%20Graph" alt="Typing SVG" />
 </p>
 
 <!-- Live badges -->
@@ -396,7 +396,7 @@ An **AI-driven** web application utilizing **Deep Learning (LSTM Neural Networks
   </tr>
 </table> -->
 
-<br/>
+<!-- <br/> -->
 
 <!-- Row 2: Contribution Activity Graph -->
 <div align="center">
