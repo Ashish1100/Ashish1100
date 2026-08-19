@@ -409,14 +409,14 @@ An **AI-driven** web application utilizing **Deep Learning (LSTM Neural Networks
 </div>
 
 <p>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ashish1100&theme=tokyonight" alt="Repos per Language" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ashish1100&theme=tokyonight" alt="Most Commit Language" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ashish1100&theme=tokyonight" alt="Repos per Language" />
+  <!-- <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ashish1100&theme=tokyonight" alt="Most Commit Language" /> -->
 </p>
 
-<p>
+<!-- <p>
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ashish1100&theme=tokyonight" alt="Stats" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ashish1100&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
-</p>
+</p> -->
 
 <!-- Row 3: Interactive More Stats -->
 <!-- <details>
@@ -433,9 +433,9 @@ An **AI-driven** web application utilizing **Deep Learning (LSTM Neural Networks
   </div>
 </details> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashish1100&theme=tokyonight" alt="Profile Details" width="100%" />
-</p>
+</p> -->
 
 <br/>
 
