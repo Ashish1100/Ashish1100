@@ -1,4 +1,4 @@
-© 2026 Ashish. All rights reserved.
+© Ashish Saha. All rights reserved.
 
 The projects, repositories, code, documentation, and other original work published under this profile are personal projects created primarily for educational, experimental, and research purposes.
 
