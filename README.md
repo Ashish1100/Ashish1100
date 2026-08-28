@@ -52,8 +52,15 @@ Name:       Ashish Saha
 Role:       ML Researcher & AI Engineer
 Domain:     Computer Science & Engineering
 Focus:      Generative AI • Agentic Systems • MLOps
-Location:   India 🇮🇳
 ```
+
+<!-- ```yaml
+Name:       Ashish Saha
+Role:       ML Researcher & AI Engineer
+Domain:     Computer Science & Engineering
+Focus:      Generative AI • Agentic Systems • MLOps
+Location:   India 🇮🇳
+``` -->
 
 - &nbsp;Researching **Generative AI** — fine-tuning LLMs, building RAG systems, multimodal architectures
 - &nbsp;Designing **Agentic Systems** — multi-agent frameworks, autonomous reasoning and planning
